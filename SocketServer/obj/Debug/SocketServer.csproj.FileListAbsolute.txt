@@ -1,0 +1,1 @@
+f:\CSharp_Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
